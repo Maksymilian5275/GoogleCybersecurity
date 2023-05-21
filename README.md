@@ -1,0 +1,8 @@
+# GoogleCybersecurity
+My portfolio for the Google Cybersecurity Certificate course
+
+I took this course to develop a strong foundation of knowledge before I begin working as a cybersecurity analyst in autumn of 2023. Cybersecurity is something I am passionate about, and always sparks interest and curiousity in me. One of the main aspects I enjoy about this topic is the problem-solving, that I get to be presented with a puzzle that must be taken apart piece-by-piece and understood. Although I studied Applied & Computational Mathematics in university, websites like TryHackMe and PicoCTF offered me the opportunity to hone my cybersecurity skills in my free time. Other resourses such as podcasts, like Darknet Diaries, and YouTube creators, like John Hammond (whose malware deobfuscation videos were what got me hooked on cyber in the first place), presented a more relaxed method to enjoy this topic. My end goal would be to work in malware analysis or digital forensics.
+
+I am currently proficient at Python, but am developing my skills in other languages such as Rust and SQL. My home computer runs on Linux which means I get daily practice for that, and my college laptop runs on Windows, so I am fortunately comfortable in both operating systems. I have a strong desire to learn and stay up-to-date on relevant topics, I enjoy problem-solving, as previously mentioned, and always cherish the opportunity to help people.
+
+I believe people have a fundamental right to privacy, and will endeavour to uphold and share this value with my work. At the same time, I feel strongly about transparency, and that we must not be too quick to exclude parties from certain conversations regarding privacy and cybersecurity.
